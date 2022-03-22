@@ -1,0 +1,16 @@
+@include media-breakpoint-down(md) {
+  h1 {
+    font-size: $h1-font-size-xs;
+  }
+  h2 {
+    font-size: $h2-font-size-xs;
+  }
+
+  .fs-1 {
+    font-size: $h1-font-size-xs !important;
+  }
+  .fs-2 {
+    font-size: $h2-font-size-xs !important;
+  }
+  
+}

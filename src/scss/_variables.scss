@@ -1,0 +1,57 @@
+$link-decoration: none;
+
+$primary: #475569;
+$reddark: #FF0505;
+$beige: #d7c3ae;
+
+$gray-100: #f2efee;
+$gray-200: #c4c4c4;
+$gray-600: #74788a;
+$gray-900: #3c3c3c;
+
+$body-bg: $gray-100;
+
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+$h1-font-size: 22px;
+$h1-font-size-xs: 18px;
+$h2-font-size: 16px;
+$h2-font-size-xs: 16px;
+
+$font-size-sm-xs: 14px;
+
+$headings-line-height: 1.1;
+$headings-font-weight: normal;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 786px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1680px,
+  xxxl: 1920px,
+) !default;
+
+$container-padding-xxxl: 240px;
+$container-padding-xxl: 120px;
+$container-padding-xl: 120px;
+$container-padding-lg: 88px;
+$container-padding-md: 64px;
+$container-padding-sm: 48px;
+$container-padding-xs: 32px;
+
+$card-gutter-xxxl: 60px;
+$card-gutter-xxl: 60px;
+$card-gutter-xl: 60px;
+$card-gutter-lg: 44px;
+$card-gutter-md: 32px;
+$card-gutter-sm: 24px;
+$card-gutter-xs: 16px;
+
+$btn-border-radius: 0;
+$btn-padding-x: 24px;
+$btn-padding-y: 23px;
+$btn-font-size: 18px;
+$btn-line-height: 1;
+$btn-font-weight: 700;
